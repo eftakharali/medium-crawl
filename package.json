@@ -1,0 +1,25 @@
+{
+  "name": "medium-crawl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eftakharali/medium-crawl.git"
+  },
+  "author": "eftakhar ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eftakharali/medium-crawl/issues"
+  },
+  "homepage": "https://github.com/eftakharali/medium-crawl#readme",
+  "dependencies": {
+    "async": "^2.5.0",
+    "axios": "^0.16.2",
+    "cheerio": "^1.0.0-rc.2",
+    "request-promise": "^4.2.2"
+  }
+}
